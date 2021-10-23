@@ -4,15 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """
-😍 Hai {} ,
+    START_TEXT = """⭕😂😜ඕනම ෆිල්ම් එකක් ඩවුන්ලොඩ් කර ගන්න අපෙ ගෘප් එකට ජොයින් වෙන්න 😂⭕‼️‼️‼️‼️‼️
 
-💡 Telegram Auto Filter Bot
+-බයිස්කෝප් ලින්ක්ස්  BY Ⓜ️ENUPC.COM-
+- @baiscopelinks
+‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
 
-I am a filter bot with advanced features currenty workig for any group. මේක ADV AUTO FILTER හි සිංහල සංස්කරණයයි.
-
-
-🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:- @{}
 """   
     
     HELP_TEXT = """
@@ -65,7 +62,6 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
+○ ᴄʀᴇᴀᴛᴏʀ : [menuka](https://t.me/Menukanimsadu)
 
-**[ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**
-"""
+https://t.me/baiscopelinks
